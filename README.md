@@ -1,8 +1,8 @@
 # Week 2: CSS Mastery
 
 ## Author
-- **Name:** Maureen Muchoki  
-- **GitHub:** [@Maureenmuchoki](https://github.com/maureenmuchoki-hub)  
+- **Name:** Kenneth Kabathi 
+- **GitHub:** [@Kennclout](https://github.com/Kennclout-hub)  
 - **Date:** March 21, 2026  
 
 ## Project Description
@@ -50,4 +50,4 @@ Run locally with a live server extension (e.g., VS Code Live Server)
 ![Projects Page](images/Projects-page.png)
 
 ## Live Demo
-[View Live Demo](https://maureenmuchoki-hub.github.io/iyf-s10-week-02-Maureenmuchoki/index.html)
+[View Live Demo](https://kennclout-hub.github.io/iyf-s10-week-02-kennclout/index.html)
