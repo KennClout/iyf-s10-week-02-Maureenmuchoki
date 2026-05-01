@@ -42,12 +42,4 @@ Run locally with a live server extension (e.g., VS Code Live Server)
 - Ensuring consistent spacing and hover effects across all interactive elements
 - Debugging margin/padding issues that affected the box model layout
 
-## Screenshots (optional)
-![Portfolio Page](images/Portfolio-page.png)
 
-![Address Page](images/Address-page.png)
-
-![Projects Page](images/Projects-page.png)
-
-## Live Demo
-[View Live Demo](https://kennclout-hub.github.io/iyf-s10-week-02-kennclout/index.html)
