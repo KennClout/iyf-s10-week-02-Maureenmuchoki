@@ -24,7 +24,7 @@ This project focuses on mastering CSS3 by building a responsive and visually app
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/maureenmuchoki-hub/iyf-s10-week-02-Maureenmuchoki.git
+   git clone https://github.com/kennclout/iyf-s10-week-02-Kennclout.git
 2. Open index.html in your browser
 OR
 Run locally with a live server extension (e.g., VS Code Live Server)
